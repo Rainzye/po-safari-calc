@@ -10,7 +10,7 @@ console.log(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>");
 console.log(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>");
 
 // Since we've started, Assume economy is 1000
-var eco = 1000; // Test: Is really 1000
+var eco = 1000; // If it rises change it here, All prices change depending on economy throttle.
 
 // Prices
 
