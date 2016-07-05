@@ -3,7 +3,6 @@
   * Copywrite (C) to Exilebeast for Pokemon World / Safari Zone.
 **/
 console.log("===============================================================");
-console.log("Safari Zone - 2.26.253.136:5080 || Pass: 1ba9 ");
 console.log("<------------->");
 console.log("Copywrite (C) to Exilebeast for Pokemon World / Safari Zone");
 console.log("================================================================");
